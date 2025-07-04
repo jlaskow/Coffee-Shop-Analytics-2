@@ -1,0 +1,89 @@
+product_id,product_group,product_category,product_type,product,unit_of_measure,current_wholesale_price,current_retail_price,tax_exempt_yn,promo_yn,new_product_yn
+1,Whole Bean/Teas,Coffee beans,Organic Beans,Brazilian - Organic,12 oz,14.4,18.00,Y,N,N
+2,Whole Bean/Teas,Coffee beans,House blend Beans,Our Old Time Diner Blend,12 oz,14.4,18.00,Y,N,N
+3,Whole Bean/Teas,Coffee beans,Espresso Beans,Espresso Roast,1 lb,11.8,14.75,Y,N,N
+4,Whole Bean/Teas,Coffee beans,Espresso Beans,Primo Espresso Roast,1 lb,16.36,20.45,Y,N,N
+5,Whole Bean/Teas,Coffee beans,Gourmet Beans,Columbian Medium Roast,1 lb,12,15.00,Y,N,N
+6,Whole Bean/Teas,Coffee beans,Gourmet Beans,Ethiopia,1 lb,16.8,21.00,Y,N,N
+7,Whole Bean/Teas,Coffee beans,Premium Beans,Jamacian Coffee River,1 lb,15.8,19.75,Y,N,N
+8,Whole Bean/Teas,Coffee beans,Premium Beans,Civet Cat,.5 lb,36,45.00,Y,N,N
+9,Whole Bean/Teas,Coffee beans,Organic Beans,Organic Decaf Blend,1 lb,18,22.50,Y,N,N
+10,Whole Bean/Teas,Coffee beans,Green beans,Guatemalan Sustainably Grown,1 lb,8,10.00,Y,N,N
+11,Whole Bean/Teas,Loose Tea,Herbal tea,Lemon Grass,.9 oz,7.16,8.95,Y,N,N
+12,Whole Bean/Teas,Loose Tea,Herbal tea,Peppermint,.9 oz,7.16,8.95,Y,N,N
+13,Whole Bean/Teas,Loose Tea,Black tea,English Breakfast,.9 oz,7.16,8.95,Y,N,N
+14,Whole Bean/Teas,Loose Tea,Black tea,Earl Grey,.9 oz,7.16,8.95,Y,N,N
+15,Whole Bean/Teas,Loose Tea,Green tea,Serenity Green Tea,1 oz,7.4,9.25,Y,N,N
+16,Whole Bean/Teas,Loose Tea,Chai tea,Traditional Blend Chai,.9 oz,7.16,8.95,Y,N,N
+17,Whole Bean/Teas,Loose Tea,Chai tea,Morning Sunrise Chai,.9 oz,7.6,9.50,Y,N,N
+18,Whole Bean/Teas,Loose Tea,Chai tea,Spicy Eye Opener Chai,.9 oz,8.76,10.95,Y,N,N
+19,Whole Bean/Teas,Packaged Chocolate,Drinking Chocolate,Dark chocolate,1 lb,5.12,6.40,Y,N,N
+20,Whole Bean/Teas,Packaged Chocolate,Organic Chocolate,Sustainably Grown Organic,1 lb,6.08,7.60,Y,N,N
+21,Whole Bean/Teas,Packaged Chocolate,Drinking Chocolate,Chili Mayan,1 lb,10.66,13.33,Y,N,N
+22,Beverages,Coffee,Drip coffee,Our Old Time Diner Blend Sm,8 oz,0.4,2.00,Y,N,N
+23,Beverages,Coffee,Drip coffee,Our Old Time Diner Blend Rg,16 oz,0.5,2.50,Y,N,N
+24,Beverages,Coffee,Drip coffee,Our Old Time Diner Blend Lg,24 oz,0.6,3.00,Y,N,N
+25,Beverages,Coffee,Organic brewed coffee,Brazilian Sm,8 oz,0.44,2.20,Y,N,N
+26,Beverages,Coffee,Organic brewed coffee,Brazilian Rg,16 oz,0.6,3.00,Y,N,N
+27,Beverages,Coffee,Organic brewed coffee,Brazilian Lg,24 oz,0.7,3.50,Y,N,N
+28,Beverages,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,8 oz,0.4,2.00,Y,N,N
+29,Beverages,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,16 oz,0.5,2.50,Y,N,N
+30,Beverages,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,24 oz,0.6,3.00,Y,N,N
+31,Beverages,Coffee,Gourmet brewed coffee,Ethiopia Sm,8 oz,0.44,2.20,Y,N,N
+32,Beverages,Coffee,Gourmet brewed coffee,Ethiopia Rg,16 oz,0.6,3.00,Y,N,N
+33,Beverages,Coffee,Gourmet brewed coffee,Ethiopia Lg,24 oz,0.7,3.50,Y,N,N
+34,Beverages,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,8 oz,0.49,2.45,Y,N,N
+35,Beverages,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,16 oz,0.62,3.10,Y,N,N
+36,Beverages,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,24 oz,0.75,3.75,Y,N,N
+37,Beverages,Coffee,Barista Espresso,Espresso shot,1.5 oz,0.6,3.00,Y,N,N
+38,Beverages,Coffee,Barista Espresso,Latte,1.5 oz,0.75,3.75,Y,N,N
+39,Beverages,Coffee,Barista Espresso,Latte Rg,3.0 oz,0.85,4.25,Y,N,N
+40,Beverages,Coffee,Barista Espresso,Cappuccino,1.5 oz,0.75,3.75,Y,N,N
+41,Beverages,Coffee,Barista Espresso,Cappuccino Lg,3.0 oz,0.85,4.25,Y,N,N
+42,Beverages,Tea,Brewed herbal tea,Lemon Grass Rg,16 oz,0.63,2.50,Y,N,N
+43,Beverages,Tea,Brewed herbal tea,Lemon Grass Lg,24 oz,0.75,3.00,Y,N,N
+44,Beverages,Tea,Brewed herbal tea,Peppermint Rg,16 oz,0.63,2.50,Y,N,N
+45,Beverages,Tea,Brewed herbal tea,Peppermint Lg,24 oz,0.75,3.00,Y,N,N
+46,Beverages,Tea,Brewed Green tea,Serenity Green Tea Rg,16 oz,0.63,2.50,Y,N,N
+47,Beverages,Tea,Brewed Green tea,Serenity Green Tea Lg,24 oz,0.75,3.00,Y,N,N
+48,Beverages,Tea,Brewed Black tea,English Breakfast Rg,16 oz,0.63,2.50,Y,N,N
+49,Beverages,Tea,Brewed Black tea,English Breakfast Lg,24 oz,0.75,3.00,Y,N,N
+50,Beverages,Tea,Brewed Black tea,Earl Grey Rg,16 oz,0.63,2.50,Y,N,N
+51,Beverages,Tea,Brewed Black tea,Earl Grey Lg,24 oz,0.75,3.00,Y,N,N
+52,Beverages,Tea,Brewed Chai tea,Traditional Blend Chai Rg,16 oz,0.63,2.50,Y,N,N
+53,Beverages,Tea,Brewed Chai tea,Traditional Blend Chai Lg,24 oz,0.75,3.00,Y,N,N
+54,Beverages,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,16 oz,0.63,2.50,Y,N,N
+55,Beverages,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,24 oz,1,4.00,Y,N,N
+56,Beverages,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,16 oz,0.64,2.55,Y,N,N
+57,Beverages,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,24 oz,0.78,3.10,Y,N,N
+58,Beverages,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,12 oz,2.63,3.50,Y,N,N
+59,Beverages,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,16 oz,3.38,4.50,Y,N,N
+60,Beverages,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,12 oz,2.81,3.75,Y,N,N
+61,Beverages,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,16 oz,3.56,4.75,Y,N,N
+62,Beverages,Drinking Chocolate,Hot chocolate,Snow Day Hot Chocolate,8 oz,2.25,3.00,Y,N,N
+63,Add-ons,Flavours,Regular syrup,Carmel syrup,pump,0.04,0.80,Y,N,N
+64,Add-ons,Flavours,Regular syrup,Hazelnut syrup,pump,0.04,0.80,Y,N,N
+65,Add-ons,Flavours,Sugar free syrup,Sugar Free Vanilla syrup,pump,0.04,0.80,Y,N,N
+66,Beverages,Coffee,Seasonal drink,Pumpkin Spice Latte,1.5 oz,0.99,4.95,Y,N,N
+67,Beverages,Coffee,Seasonal drink,Pumpkin Spice Latte Lg,3.0 oz,1.19,5.95,Y,Y,N
+68,Beverages,Drinking Chocolate,Seasonal drink,Happy Holidays hot chocolate,8 oz,2.81,3.75,Y,Y,Y
+75,Food,Bakery,Pastry,Croissant,single,2.11,3.25,N,N,N
+70,Food,Bakery,Scone,Cranberry Scone,single,2.11,3.25,N,N,N
+71,Food,Bakery,Pastry,Chocolate Croissant,single,2.44,3.75,N,N,N
+72,Food,Bakery,Scone,Ginger Scone,single,2.11,3.25,N,N,N
+73,Food,Bakery,Pastry,Almond Croissant,single,2.44,3.75,N,N,N
+74,Food,Bakery,Biscotti,Ginger Biscotti,single,2.28,3.50,N,N,N
+69,Food,Bakery,Biscotti,Hazelnut Biscotti,single,2.28,3.50,N,N,N
+76,Food,Bakery,Biscotti,Chocolate Chip Biscotti,single,2.28,3.50,N,N,N
+77,Food,Bakery,Scone,Oatmeal Scone,single,1.95,3.00,N,N,N
+78,Food,Bakery,Scone,Scottish Cream Scone ,single,2.93,4.50,N,N,N
+79,Food,Bakery,Scone,Jumbo Savory Scone,single,2.44,3.75,N,N,N
+80,Merchandise,Branded,Clothing,I Need My Bean! Toque,single,7.36,23.00,N,N,N
+81,Merchandise,Branded,Clothing,I Need My Bean! T-shirt,single,8.96,28.00,N,N,N
+82,Merchandise,Branded,Housewares,I Need My Bean! Diner mug,single,3.84,12.00,N,N,N
+83,Merchandise,Branded,Housewares,I Need My Bean! Latte cup,single,4.48,14.00,N,N,N
+84,Add-ons,Flavours,Regular syrup,Chocolate syrup,pump,0.04,0.80,Y,N,N
+85,Beverages,Coffee,Specialty coffee,Rio Nights,6 oz,1.2,6.00,Y,N,Y
+87,Beverages,Coffee,Barista Espresso,Ouro Brasileiro shot,1.5 oz,0.6,3.00,Y,N,N
+88,Beverages,Coffee,Barista Espresso,Ouro Brasileiro shot promo,16 oz,0.42,2.10,Y,Y,N
+89,Food,Bakery,Scone,Ginger Scone promo,single,1.72,2.65,N,Y,N
