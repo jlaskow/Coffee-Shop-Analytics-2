@@ -1,4 +1,4 @@
-sales_outlet_id,transaction_date,product_id,start_of_day,quantity_sold,waste,% waste,product,current_wholesale_price,current_retail_price,
+sales_outlet_id,transaction_date,product_id,start_of_day,quantity_sold,waste,% waste,product,current_wholesale_price,current_retail_price,wastage_cost
 3,4/1/2019,69,18,8,10,56%,Hazelnut Biscotti,2.28,3.5,22.8
 3,4/1/2019,70,18,12,6,33%,Cranberry Scone,2.11,3.25,12.66
 3,4/1/2019,71,18,8,10,56%,Chocolate Croissant,2.44,3.75,24.4
