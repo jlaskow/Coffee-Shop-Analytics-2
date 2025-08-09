@@ -121,6 +121,17 @@ There are 2 powerpoints available:
 
 Here you can find mock project proposals intended for our fictional company's CEO. We also include an analysis  of the company's current data architecture using the DELTTAA, FACE, and Pachinko frameworks. 
 
+- Project Proposal:
+
+<img width="898" height="628" alt="image" src="https://github.com/user-attachments/assets/d1149191-f898-4ef7-b943-072a5ee40d7c" />
+
+
+
+- Coffee Shop Data Evaluation:
+
+<img width="662" height="256" alt="image" src="https://github.com/user-attachments/assets/663705c2-3438-4916-9001-7ff7796fd897" />
+
+
 
 
 
