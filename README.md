@@ -47,10 +47,36 @@ Product information detailing category, product type, production cost and sales 
 <img width="1758" height="427" alt="image" src="https://github.com/user-attachments/assets/fedd8f0e-9aed-4e53-ac3b-d393d5eaeb40" />
 
 
-- sales reciepts.csv
-- sales targets.csv
-- sales_outlet.csv
-- staff.csv
+- sales reciepts.csv:
+
+April sales records for Stores 3, 5, and 8
+
+
+<img width="1911" height="427" alt="image" src="https://github.com/user-attachments/assets/e432c265-e49d-4d4d-bb51-0051dbec75a7" />
+
+
+
+- sales targets.csv:
+
+April sales targets for all 8 stores
+
+
+<img width="941" height="410" alt="image" src="https://github.com/user-attachments/assets/cd467907-70c8-420a-8b91-052cee8321f9" />
+
+- sales_outlet.csv:
+
+Information on sales outlet location and type
+
+
+<img width="1861" height="452" alt="image" src="https://github.com/user-attachments/assets/d348f4e5-6c81-4057-9553-d04897cad66c" />
+
+- staff.csv:
+
+Staff records and outlet location. 
+
+
+<img width="1417" height="552" alt="image" src="https://github.com/user-attachments/assets/2586812f-c192-405a-bdce-769dbed001f2" />
+
 
 ## Compiled Data
 Custom datasets compiled from raw data and engineered features. Compiled data includes:
