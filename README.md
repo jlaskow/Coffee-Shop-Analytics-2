@@ -14,7 +14,43 @@ Data files are divided into 2 folders:
 - Compiled Data
 
 ## Raw Data
-Unmodified datasets obtained from IBM on coffeeshop sales data
+Unmodified datasets obtained from IBM on coffeeshop sales data. Contains the following csv files:
+
+- Dates.csv:
+  Information on calendar dates by fiscal quarter.
+
+  <img width="1221" height="320" alt="image" src="https://github.com/user-attachments/assets/ba03b5e7-7c9d-4ee9-a25e-0f3405815b0e" />
+
+- customer.csv:
+  Information for registered customers.
+
+  <img width="928" height="292" alt="image" src="https://github.com/user-attachments/assets/dda76442-6bbc-4240-aae6-14f62223e54b" />
+
+- generations.csv:
+
+  Birth years by generation.
+
+
+<img width="927" height="448" alt="image" src="https://github.com/user-attachments/assets/17f248e2-c5d1-4853-ab88-157cf86ffdf5" />
+  
+- pastry inventory.csv:
+
+Daily pastry records by store, includes starting quantity of each pastry, number sold, and quantity wasted.
+
+
+<img width="840" height="389" alt="image" src="https://github.com/user-attachments/assets/e5fa6a05-a385-4f9c-9a4e-18f7056ded13" />
+
+- product.csv
+Product information detailing category, product type, production cost and sales price
+
+
+<img width="1758" height="427" alt="image" src="https://github.com/user-attachments/assets/fedd8f0e-9aed-4e53-ac3b-d393d5eaeb40" />
+
+
+- sales reciepts.csv
+- sales targets.csv
+- sales_outlet.csv
+- staff.csv
 
 ## Compiled Data
 Custom datasets compiled from raw data and engineered features. Compiled data includes:
@@ -30,3 +66,17 @@ Custom datasets compiled from raw data and engineered features. Compiled data in
 # Presentations
 
 There are 2 powerpoints available. 
+
+
+
+
+
+
+
+
+
+
+# Data Source
+
+
+https://www.kaggle.com/datasets/ylchang/coffee-shop-sample-data-1113?select=201904+sales+reciepts.csv
