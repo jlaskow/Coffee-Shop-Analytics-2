@@ -83,15 +83,35 @@ Custom datasets compiled from raw data and engineered features. Compiled data in
 - modified_sales_data:
   Compiled data on sales reciepts, product names, product cost and sales price, and purchaser information
 
+<img width="1517" height="233" alt="image" src="https://github.com/user-attachments/assets/abd60132-d88d-443f-aa3a-6e67896ab157" />
+
 - modified_waste_records:
   Compiled data on pastry inventory by day and store, along with product name, product cost, sales price, and total wastage cost
+
+
+<img width="1274" height="281" alt="image" src="https://github.com/user-attachments/assets/1cda2ba7-1a6e-47a2-a941-fb87191f88d9" />
 
 
 
 
 # Presentations
 
-There are 2 powerpoints available. 
+There are 2 powerpoints available:
+
+- Business Presentation:  Boosting Profit for the Grean Bean Coffee Company with Recommender Systems
+
+  A business presentation tailored for the company's CEO, focusing on the financial costs and benefits associated with a customer recommender system designed to boost monthly revenue.
+
+<img width="1917" height="1034" alt="image" src="https://github.com/user-attachments/assets/0b67ed12-b6d6-442c-ac80-9552a7360c85" />
+
+
+- Analytics Presentation
+
+  A technical presentation tailored for the company's CTO, focusing on the methodology for designing the recommender systems and well as the next steps for model integration with the company's business platforms.
+
+
+  <img width="723" height="376" alt="image" src="https://github.com/user-attachments/assets/aa4520d6-539b-4033-9675-b9c16cc0ed3d" />
+
 
 
 
