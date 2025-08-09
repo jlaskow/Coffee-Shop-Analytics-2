@@ -117,6 +117,9 @@ There are 2 powerpoints available:
 
 
 
+# Other Documents
+
+Here you can find mock project proposals intended for our fictional company's CEO. We also include an analysis  of the company's current data architecture using the DELTTAA, FACE, and Pachinko frameworks. 
 
 
 
